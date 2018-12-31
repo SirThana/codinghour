@@ -1,12 +1,16 @@
 package Zijl;
 
 public class Arraylist {
-    int[] Arraylist;
+    private int[] Arraylist;
+    private String naamArray = "";
 
-    public Arraylist(int[] c){
-        Arraylist = c;
+    public Arraylist(String naamArray,int[] arraylist){
+        this.Arraylist = arraylist;
+        this.naamArray = naamArray;
     }
-    public int returnArray(int[] c){
-        return c[0];
+
+
+    public String getNaam(){
+        return this.naamArray;
     }
-}
+    }
