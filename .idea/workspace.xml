@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6aa7468-6ba3-491a-9005-bfab99d1368c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codinghour/Zijl/Arraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codinghour/Zijl/Arraylist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codinghour/Zijl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codinghour/Zijl/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zijl/Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zijl/Arraylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zijl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zijl/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e6aa7468-6ba3-491a-9005-bfab99d1368c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="959" />
     <option name="height" value="1052" />
   </component>
@@ -158,15 +152,24 @@
       <updated>1546291483126</updated>
       <workItem from="1546291486057" duration="178000" />
       <workItem from="1546291683671" duration="497000" />
-      <workItem from="1546295011441" duration="311000" />
+      <workItem from="1546295011441" duration="1040000" />
     </task>
+    <task id="LOCAL-00001" summary="nothing special">
+      <created>1546295621341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546295621341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="986000" />
+    <option name="totallyTimeSpent" value="1715000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="-1" width="1920" height="1053" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -201,6 +204,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nothing special" />
+    <option name="LAST_COMMIT_MESSAGE" value="nothing special" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Zijl/Main.java">
