@@ -12,7 +12,7 @@ public class Main {
         // testing
 
 
-        System.out.println(b.getNaam());
+        System.out.println(b.getNaam() + b.getArraylist());
         System.out.println(c.getNaam());
 
 

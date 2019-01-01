@@ -13,4 +13,9 @@ public class Arraylist {
     public String getNaam(){
         return this.naamArray;
     }
+
+    public int[] getArraylist(){
+        return this.Arraylist;
+    }
+
     }
