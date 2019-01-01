@@ -1,7 +1,5 @@
 package Zijl;
-import java.util.ArrayList;
-import java.util.Arrays;
-
+import java.util.*;
 
 
 public class Main {
@@ -32,12 +30,39 @@ public class Main {
         b.set(2,flip);
         System.out.println(b);
 
+        /**
+         * removes all objects out of @b
+         * if the int of that object is equal to 20
+         */
         for (int i = 0; i <b.size() ; i++) {
           int s = (int) b.get(i);
-//            System.out.println(s);
             if(s == 20){
                 b.remove(i);
+                i--;
             }
         }
+
+        System.out.println(b);
+
+        /**
+         * saves the biggest int object out of b in @maxObject
+         */
+        int maxObject = 0;
+        for (int i = 0; i <b.size() ; i++) {
+        if (maxObject <= (int)b.get(i))   {
+            maxObject = (int) b.get(i);
+
+        }
+        }
+        System.out.println(maxObject);
+
+        Collections.sort(b);
+        System.out.println(b);
+        Collections.shuffle(b);
+        System.out.println(b);
+        Collections.sort(b);
+        System.out.println(b);
+
+
     }
 }
